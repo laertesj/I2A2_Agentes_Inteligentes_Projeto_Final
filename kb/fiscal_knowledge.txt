@@ -1,0 +1,14 @@
+O que é CFOP?
+CFOP significa 'Código Fiscal de Operações e Prestações'. É um código numérico de 4 dígitos que identifica a natureza de circulação da mercadoria ou da prestação de serviço de transporte.
+
+O que é NCM?
+NCM significa 'Nomenclatura Comum do Mercosul'. É um código de 8 dígitos usado para identificar a natureza das mercadorias e promover o comércio no Mercosul. É obrigatório em notas fiscais.
+
+O que é a CHAVE DE ACESSO de uma NF-e?
+A Chave de Acesso é um número de 44 dígitos que serve como a 'identidade' única de uma Nota Fiscal Eletrônica (NF-e). Ela é usada para consultar e validar a nota nos sistemas do governo.
+
+O que é CFOP 5102?
+O CFOP 5102 refere-se à 'Venda de mercadoria adquirida ou recebida de terceiros'. É usado para mercadorias que a empresa comprou e está revendendo (comércio).
+
+O que é CFOP 5933?
+O CFOP 5933 refere-se à 'Prestação de serviço tributado pelo ISSQN'. É comumente usado quando uma empresa emite uma nota fiscal para um serviço que prestou.

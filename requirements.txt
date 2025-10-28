@@ -1,0 +1,26 @@
+# Framework Web
+streamlit
+
+# Core de IA e Agentes (Versões Travadas)
+langchain>=0.1.16
+langchain-openai>=0.1.3
+langchain-experimental>=0.0.57
+langchain-community>=0.0.34
+langchain-core>=0.1.48
+
+# Core OpenAI (necessário)
+openai>=1.10.0
+tiktoken
+
+# Manipulação de Dados
+pandas
+tabulate
+openpyxl
+
+# Geração de Gráficos
+plotly
+matplotlib
+seaborn
+
+# Banco de Dados Vetorial (para RAG)
+faiss-cpu

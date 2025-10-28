@@ -1,0 +1,5 @@
+# Ignorar ambiente virtual do Python
+.venv/
+
+# Ignorar pasta de cache e configuração do Streamlit
+.streamlit/
